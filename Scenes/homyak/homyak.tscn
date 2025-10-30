@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://bkajxebigchbs"]
 
 [ext_resource type="Texture2D" uid="uid://dal7rm6q7xnlb" path="res://Assets/homyak/image123.png" id="1_1kgxf"]
-[ext_resource type="Script" uid="uid://cq00it8v00oa3" path="res://Scripts/homyak/homyak.cs" id="1_ifqem"]
+[ext_resource type="Script" uid="uid://dij5g7namotbk" path="res://Scripts/homyak/Homyak.cs" id="1_ifqem"]
 
 [node name="Homyak" type="Node2D"]
 script = ExtResource("1_ifqem")
